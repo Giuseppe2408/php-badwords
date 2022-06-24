@@ -19,7 +19,9 @@ h2 {
     display: inline-block;
 }
 #container{
-    margin-top: 400px;
+    padding-top: 300px;
+    
+    
 }
 
 .margin{
