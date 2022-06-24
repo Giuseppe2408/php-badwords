@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+}
+.txt-center{
+    text-align: center;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+h2 {  
+    display: inline-block;
+}
+#container{
+    margin-top: 400px;
+}
+
+.margin{
+    margin: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+input{
+    padding: 10px;
+    width: 80%;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+}
